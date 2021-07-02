@@ -1,5 +1,8 @@
-body {
-  margin: 0;
+html,body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
   text-align: center;
 }
 
@@ -13,7 +16,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   color: #3C8DAD;
-  font-weight: lighter;
+  font-weight: normal;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -196,7 +199,7 @@ a:hover {
 .work {
   position: relative;
   bottom: 50px;
-  left: 500px;
+  left: 435px;
   font-size: 20px;
 }
 
